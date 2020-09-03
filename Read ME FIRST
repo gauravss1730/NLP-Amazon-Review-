@@ -1,0 +1,11 @@
+Link to the data set ="http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Beauty_5.json.gz"
+THIS DATA CONTAINS REVIEWS OF BEAUTY PRODUCT FROM AMAZON.
+THIS DATA CONTAINS:
+1) REVIEWER ID
+2) REVIEW CODE
+3) REVIEWER NAME
+4) HELPFUL
+5) REVIEW TEXT 
+6) OVERALL (RATING)
+7) SUMMARY
+8) TIME
